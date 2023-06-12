@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">UAS pemrograman mobile device</string>
+
+
+    <string-array name="pilih">
+        <item>jelajahi</item>
+        <item>Hubungi</item>
+        <item>Baca</item>
+        <item>Data</item>
+        <item>cek posisi</item>
+    </string-array>
+
 </resources>
